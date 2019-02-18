@@ -1,2 +1,3 @@
 # freeCodeCamp-solutions
-Solutions to problems from freeCodeCamp
+
+My solutions to various problems from freeCodeCamp
